@@ -21,8 +21,8 @@ footer h1{
 }
 
 body{
-        margin: 100px;
-        padding: 100px;
+        /* margin: 50px; */
+        /* padding: 100px; */
         /* background: linear-gradient(180deg, #eee4d7, #f8ebd4); */
         background: rgb(235, 230, 210);
         height: 100vh;
