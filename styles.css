@@ -1,0 +1,119 @@
+
+
+footer p{
+        font-size: 10px;
+        color: #888;
+        margin-top: 20px;
+        padding-top: 15px; 
+        
+}
+footer h1{
+        font-size: 10px;
+        color: #888;
+        margin-top: 20px;
+}
+
+.small-icon {
+        width: 17px;
+        height: auto;
+        margin-right: 2px;
+        vertical-align: middle;
+}
+
+body{
+        margin: 100px;
+        padding: 100px;
+        /* background: linear-gradient(180deg, #eee4d7, #f8ebd4); */
+        background: rgb(235, 230, 210);
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+.container {
+        font-size: 10px;
+        font-family: "Arial", sans-serif;
+        text-align: center;
+        width: 300px;
+        background: white;
+        border-radius: 20px;
+        padding-top: 30px;   
+        padding-bottom: 15px;    
+        padding-right: 22px;  
+        padding-left: 22px;  
+        box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.1);
+}
+
+.container h1{
+        font-family: "Black Han Sans", sans-serif;
+        font-size: 24px;
+}
+.container h2{
+        font-size: 12px;
+        padding-top: 7px;
+        padding-bottom: 20px;
+}
+.container2 {
+        text-align: center;
+        width: 300px;
+        background: white;
+        border-radius: 20px;
+        padding: 20px;
+        box-shadow: 10px 10px 10px rgba(42, 31, 31, 0.2);
+}
+
+.logo {
+        width: 80px;
+        margin-bottom: 0px;
+}
+
+.profile h1 {
+        font-size: 18px;
+        color: #555;
+        margin-bottom: 30px;
+}
+
+
+.links a {
+        font-size: 14px;
+        color: #888;
+        margin-top: 20px;
+}
+
+.links .link {
+        display: block;
+        text-decoration: none;
+        background-color: #ffffff;
+        color: #333;
+        padding: 15px 0;
+        margin: 10px 0;
+        border-radius: 10px;
+        box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.1);
+        transition: all 0.2s ease;
+}
+
+
+.links .link:hover {
+        background-color: #d8bca3;
+        box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.15);
+        transform: scale(1.1);
+}
+
+.links .call-button {
+        display: block;
+        text-decoration: none;
+        background-color: #ffffff;
+        color: #333;
+        padding: 15px 0;
+        margin: 10px 0;
+        border-radius: 10px;
+        box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.1);
+        transition: all 0.2s ease;
+}
+
+.links .call-button:hover {
+        background-color: #d8bca3;
+        box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.15);
+        transform: scale(1.1);
+}
+
